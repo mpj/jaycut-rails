@@ -1,0 +1,4 @@
+h1. JayCut on Rails
+
+This is a very small helper class that you can use to implement the JayCut video editor in your Ruby on Rails app. It also contains a sample controller and view, showing how you use it.
+
